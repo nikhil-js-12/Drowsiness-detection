@@ -1,0 +1,11 @@
+Code execution Procedure
+
+Step 1: Extract the library's zip file.
+Step 2: Copy and paste the library folder in Local Disk C>> Under Users select anaconda3 folder>> paste it in envs folder
+        Example: C:\Users\Nikhil Js\anaconda3\envs.
+Step 3: Open Anaconda Navigator.
+Step 4: Click on Environments.
+Step 5: Click on Custom. ( Once the library is added, it will automatically get displayed)
+Step 6: In Command Prompt navigate to the folder which has code.
+Step 7: Select the code.py file and run the program.
+
